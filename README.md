@@ -1,0 +1,1 @@
+# spocitani_prikladu
