@@ -21,3 +21,5 @@ else:
 
 print(f'{cislo_1}{znamenko}{cislo_2} se rovna: {vysledek}')
 
+
+
